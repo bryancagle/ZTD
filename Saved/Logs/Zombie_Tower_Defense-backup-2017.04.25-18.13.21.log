@@ -1,0 +1,1114 @@
+﻿Log file open, 04/24/17 03:06:50
+LogInit:Display: Running engine for game: Zombie_Tower_Defense
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1745149049) SRandInit(-1745149049).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.069349
+LogPluginManager: Loaded Plugin Paper2D, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From B:/Unreal Engine 4.14.3/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: B:/Unreal Engine 4.14.3/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.24-08.06.50:922][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.24-08.06.50:922][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.24-08.06.50:929][  0]LogInit: Computer: MASTACHIEF-PC
+[2017.04.24-08.06.50:929][  0]LogInit: User: MASTACHIEF
+[2017.04.24-08.06.50:929][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.04.24-08.06.50:929][  0]LogInit: High frequency timer resolution =3.330136 MHz
+[2017.04.24-08.06.50:930][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.04.24-08.06.50:930][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.24-08.06.50:930][  0]LogMemory: Process Physical Memory: 263.95 MB used, 263.95 MB peak
+[2017.04.24-08.06.50:930][  0]LogMemory: Process Virtual Memory: 264.20 MB used, 264.20 MB peak
+[2017.04.24-08.06.50:930][  0]LogMemory: Physical Memory: 7261.90 MB used,  9077.67 MB free, 16339.57 MB total
+[2017.04.24-08.06.50:930][  0]LogMemory: Virtual Memory: 659.89 MB used,  9077.67 MB free, 8388608.00 MB total
+[2017.04.24-08.06.50:959][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.24-08.06.51:479][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.24-08.06.51:682][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.04.24-08.06.51:682][  0]LogD3D11RHI:       4007/0/7913 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.04.24-08.06.51:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.24-08.06.51:686][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.24-08.06.51:686][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.24-08.06.51:686][  0]LogWindows: EnumDisplayDevices:
+[2017.04.24-08.06.51:686][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.04.24-08.06.51:686][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.04.24-08.06.51:686][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.04.24-08.06.51:687][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.04.24-08.06.51:687][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.04.24-08.06.51:687][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.04.24-08.06.51:687][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.04.24-08.06.51:687][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.04.24-08.06.51:687][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.04.24-08.06.51:687][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.04.24-08.06.51:687][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.04.24-08.06.51:687][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.24-08.06.51:877][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.24-08.06.51:904][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.04.24-08.06.51:904][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Intermediate/Shaders/WorkingDirectory/8968/).
+[2017.04.24-08.06.51:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MASTA CHIEF/AppData/Local/Temp/UnrealShaderWorkingDir/98C688584E51B46246A9179C689945AA/'.
+[2017.04.24-08.06.51:904][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.24-08.06.52:843][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.24-08.06.52:885][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.24-08.06.52:927][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.24-08.06.52:969][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.24-08.06.53:011][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.24-08.06.53:052][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.24-08.06.53:094][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.24-08.06.53:136][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.24-08.06.53:168][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.24-08.06.53:208][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.24-08.06.53:255][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.24-08.06.53:299][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.24-08.06.53:341][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.24-08.06.53:382][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.24-08.06.53:423][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.24-08.06.53:505][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.24-08.06.53:505][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.24-08.06.53:528][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.24-08.06.53:591][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.24-08.06.53:619][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.24-08.06.53:659][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.24-08.06.53:700][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.24-08.06.53:740][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.24-08.06.53:782][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.24-08.06.53:782][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.24-08.06.54:022][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/MASTA CHIEF/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/MASTA CHIEF/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.24-08.06.54:066][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.24-08.06.54:083][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.24-08.06.54:094][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MASTA CHIEF/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.24-08.06.54:305][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.24-08.06.54:309][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.24-08.06.54:476][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.24-08.06.54:504][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.24-08.06.54:532][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.24-08.06.54:532][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.24-08.06.54:532][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.24-08.06.54:965][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: zombie_tower_defense, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2528811943
+[2017.04.24-08.06.55:010][  0]LogAssetRegistry: FAssetRegistry took 0.0194 seconds to start up
+[2017.04.24-08.06.55:036][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.013957 seconds
+[2017.04.24-08.06.55:042][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.24-08.06.55:042][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.24-08.06.55:042][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.24-08.06.55:078][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.24-08.06.55:534][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.24-08.06.55:534][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.24-08.06.55:534][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.24-08.06.56:152][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.24-08.06.56:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.24-08.06.56:397][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.24-08.06.56:658][  0]SourceControl: Info Source control is disabled
+[2017.04.24-08.06.56:658][  0]SourceControl: Info Source control is disabled
+[2017.04.24-08.06.56:686][  0]SourceControl: Info Source control is disabled
+[2017.04.24-08.06.56:714][  0]SourceControl: Info Source control is disabled
+[2017.04.24-08.06.57:519][  0]LogEngine: Initializing Engine...
+[2017.04.24-08.06.57:519][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.24-08.06.57:732][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.24-08.06.57:742][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.06.57:760][  0]LogInit: FAudioDevice initialized.
+[2017.04.24-08.06.57:785][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/MASTA CHIEF/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.24-08.06.57:789][  0]LogInit: Texture streaming: Enabled
+[2017.04.24-08.06.57:903][  0]LogInit: Transaction tracking system initialized
+[2017.04.24-08.06.58:117][  0]BlueprintLog: New page: Editor Load
+[2017.04.24-08.06.58:665][  0]LocalizationService: Info Localization service is disabled
+[2017.04.24-08.06.59:074][  0]LogConsoleResponse:Display: 
+[2017.04.24-08.06.59:189][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.24-08.06.59:189][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.24-08.06.59:420][  0]LogFileCache: Scanning file cache for directory 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/' took 0.01s
+[2017.04.24-08.06.59:780][  0]SourceControl: Info Source control is disabled
+[2017.04.24-08.06.59:780][  0]Cmd: MAP LOAD FILE="../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-08.06.59:781][  0]LightingResults: New page: Lighting Build
+[2017.04.24-08.06.59:807][  0]MapCheck: New page: Map Check
+[2017.04.24-08.06.59:807][  0]LightingResults: New page: Lighting Build
+[2017.04.24-08.07.00:913][  0]LogAIModule: Creating AISystem for world Menu_Main
+[2017.04.24-08.07.00:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.24-08.07.00:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-08.07.00:944][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 29.523ms to complete.
+[2017.04.24-08.07.00:944][  0]LogFileHelpers: Loading map 'Menu_Main' took 1.164
+[2017.04.24-08.07.01:055][  0]LogCollectionManager: Loaded 0 collections in 0.001355 seconds
+[2017.04.24-08.07.01:115][  0]LogFileCache: Scanning file cache for directory 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Collections/' took 0.01s
+[2017.04.24-08.07.01:115][  0]LogFileCache: Scanning file cache for directory 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/Developers/MASTACHIEF/Collections/' took 0.01s
+[2017.04.24-08.07.01:115][  0]LogFileCache: Scanning file cache for directory 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/Collections/' took 0.01s
+[2017.04.24-08.07.01:115][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.24-08.07.01:123][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2190 classes and 428 folders.
+[2017.04.24-08.07.01:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.24-08.07.01:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.24-08.07.01:151][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.04.24-08.07.01:189][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.04.24-08.07.01:222][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.04.24-08.07.01:250][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.04.24-08.07.01:327][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.24-08.07.01:331][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.24-08.07.01:378][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.04.24-08.07.01:378][  0]LogLoad: (Engine Initialization) Total time: 11.60 seconds
+[2017.04.24-08.07.01:378][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.45 seconds
+[2017.04.24-08.07.01:378][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.04.24-08.07.01:387][  0]LogOcInput: OculusInput pre-init called
+[2017.04.24-08.07.01:406][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.24-08.07.01:553][  0]LogRenderer: Reallocating scene render targets to support 1064x592 NumSamples 1 (Frame:2).
+[2017.04.24-08.07.01:619][  1]LogAssetRegistry: Asset discovery search completed in 6.6287 seconds
+[2017.04.24-08.07.01:619][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.24-08.07.01:619][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2017.04.24-08.07.09:285][830]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.07.09:347][830]Cmd: MAP LOAD FILE="../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.24-08.07.09:348][830]LightingResults: New page: Lighting Build
+[2017.04.24-08.07.09:348][830]LoadErrors: New page: Loading map: Level_3.umap
+[2017.04.24-08.07.09:348][830]MapCheck: New page: Map Check
+[2017.04.24-08.07.09:348][830]LightingResults: New page: Lighting Build
+[2017.04.24-08.07.09:492][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.24-08.07.09:518][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.24-08.07.09:551][830]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.549ms to complete.
+[2017.04.24-08.07.09:551][830]LogFileHelpers: Loading map 'Level_3' took 0.205
+[2017.04.24-08.07.24:815][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.07.34:957][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.07.49:780][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.07.52:828][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection3)
+[2017.04.24-08.10.11:428][673]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.04.24-08.10.26:760][718]Cmd: DELETE
+[2017.04.24-08.10.26:760][718]Cmd: ACTOR DELETE
+[2017.04.24-08.10.26:760][718]LogEditorActor: Deleted Actor: Landscape
+[2017.04.24-08.10.26:801][718]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2017.04.24-08.10.41:263][313]LogSavePackage: Save=263.58ms
+[2017.04.24-08.10.41:263][313]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_39B43DD1F40324F3366E3CB871F75604B.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-08.10.41:264][313]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-08.10.41:290][313]LogFileHelpers: Saving map 'Level_3' took 0.340
+[2017.04.24-08.11.57:445][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.12.02:249][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.12.08:501][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection)
+[2017.04.24-08.12.15:261][208]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.12.15:275][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.12.15:276][208]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:12:15 PM)
+[2017.04.24-08.12.15:276][208]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.12.15:304][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027538s)
+[2017.04.24-08.12.15:304][208]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.12.15:305][208]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2017.04.24-08.12.15:305][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.028385s)
+[2017.04.24-08.12.15:318][208]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.12.15:323][208]LogInit: FAudioDevice initialized.
+[2017.04.24-08.12.15:366][208]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.12.15:374][208]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.12.15
+[2017.04.24-08.12.15:375][208]LogWorld: Bringing up level for play took: 0.007570
+[2017.04.24-08.12.15:401][208]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.04.24-08.12.15:407][208]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 -0.182
+[2017.04.24-08.12.22:287][ 18]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.12.23:294][138]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.12.23:295][138]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4037.864 Y=1896.028 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.12.24:295][258]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.12.24:297][258]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4037.865 Y=1896.021 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.12.35:561][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.12.54:134][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.13.00:232][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.13.05:547][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.13.22:141][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.13.44:576][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.14.01:755][820]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes26)
+[2017.04.24-08.14.02:533][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.14.39:863][ 45]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes8)
+[2017.04.24-08.14.45:206][503]Cmd: DELETE
+[2017.04.24-08.14.45:206][503]Cmd: ACTOR DELETE
+[2017.04.24-08.14.45:207][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.14.45:216][503]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.14.46:162][615]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.14.48:478][809]Cmd: DELETE
+[2017.04.24-08.14.48:478][809]Cmd: ACTOR DELETE
+[2017.04.24-08.14.48:478][809]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.14.48:487][809]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.14.50:103][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.14.50:758][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes26)
+[2017.04.24-08.14.54:650][502]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.15.02:070][327]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.15.02:084][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.15.02:084][327]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:15:02 PM)
+[2017.04.24-08.15.02:085][327]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.15.02:111][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026634s)
+[2017.04.24-08.15.02:112][327]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.15.02:112][327]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2017.04.24-08.15.02:112][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.027454s)
+[2017.04.24-08.15.02:125][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.15.02:130][327]LogInit: FAudioDevice initialized.
+[2017.04.24-08.15.02:157][327]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.15.02:165][327]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.15.02
+[2017.04.24-08.15.02:165][327]LogWorld: Bringing up level for play took: 0.007744
+[2017.04.24-08.15.02:170][327]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 0.578
+[2017.04.24-08.15.09:088][153]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.15.10:094][273]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.15.10:095][273]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4037.625 Y=1898.840 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.15.11:099][393]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.15.11:100][393]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4037.613 Y=1899.213 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.15.29:505][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.15.32:817][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection4)
+[2017.04.24-08.16.52:054][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection2)
+[2017.04.24-08.16.56:946][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes2)
+[2017.04.24-08.16.58:981][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection2)
+[2017.04.24-08.17.21:471][793]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.17.21:485][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.17.21:486][793]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:17:21 PM)
+[2017.04.24-08.17.21:486][793]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.17.21:512][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026218s)
+[2017.04.24-08.17.21:513][793]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.17.21:513][793]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.04.24-08.17.21:513][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.027069s)
+[2017.04.24-08.17.21:526][793]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.17.21:531][793]LogInit: FAudioDevice initialized.
+[2017.04.24-08.17.21:558][793]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.17.21:566][793]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.17.21
+[2017.04.24-08.17.21:566][793]LogWorld: Bringing up level for play took: 0.007556
+[2017.04.24-08.17.21:571][793]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 -0.023
+[2017.04.24-08.17.23:388][989]LogBlueprintUserMessages: [Ingame_UI_C_2] Tower Placement Enabled
+[2017.04.24-08.17.23:730][ 30]LogBlueprintUserMessages: [Ingame_UI_C_2] Shooting Enabled
+[2017.04.24-08.17.24:308][ 99]LogBlueprintUserMessages: [Ingame_UI_C_2] Tower Placement Enabled
+[2017.04.24-08.17.24:566][130]LogBlueprintUserMessages: [Ingame_UI_C_2] Shooting Enabled
+[2017.04.24-08.17.28:489][600]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.17.29:495][720]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.17.29:496][720]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4038.840 Y=1908.584 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.17.30:498][840]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.17.30:499][840]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4038.666 Y=1907.968 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.17.30:616][854]LogBlueprintUserMessages: [Ingame_UI_C_2] Tower Placement Enabled
+[2017.04.24-08.17.58:284][ 86]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.19.23:377][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection4)
+[2017.04.24-08.19.55:648][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.20.08:944][610]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.20.12:651][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.20.15:098][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection3)
+[2017.04.24-08.20.16:115][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.20.16:955][451]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection3)
+[2017.04.24-08.21.33:366][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.21.46:973][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.21.54:061][491]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.22.01:807][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.22.08:878][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.22.21:340][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.22.45:075][156]Cmd: TRANSACTION UNDO
+[2017.04.24-08.22.45:075][156]LogEditorTransaction: Undo Move Actors
+[2017.04.24-08.23.03:304][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.23.39:935][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.23.56:658][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.24.08:644][274]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.24.15:356][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.24.16:172][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.24.16:995][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.24.19:205][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes)
+[2017.04.24-08.24.19:632][434]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes)
+[2017.04.24-08.24.21:175][584]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.24.23:288][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes)
+[2017.04.24-08.24.23:755][833]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes)
+[2017.04.24-08.24.27:209][134]Cmd: DELETE
+[2017.04.24-08.24.27:209][134]Cmd: ACTOR DELETE
+[2017.04.24-08.24.27:210][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.24.27:219][134]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.24.28:195][248]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes2)
+[2017.04.24-08.24.33:320][669]Cmd: DELETE
+[2017.04.24-08.24.33:320][669]Cmd: ACTOR DELETE
+[2017.04.24-08.24.33:321][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.24.33:329][669]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.24.36:373][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.24.37:044][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.24.37:671][133]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.25.11:320][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection)
+[2017.04.24-08.25.39:511][  0]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.26.18:587][573]LogSavePackage: Save=222.96ms
+[2017.04.24-08.26.18:587][573]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3_Auto1884C2CCB40E8B9ED5DBF7583BCDE5981.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto1.umap'
+[2017.04.24-08.26.18:588][573]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto1.umap
+[2017.04.24-08.26.18:589][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Level_3' took 0.245
+[2017.04.24-08.26.18:589][573]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2017.04.24-08.26.31:917][726]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.26.31:931][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.26.31:931][726]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:26:31 PM)
+[2017.04.24-08.26.31:932][726]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.26.31:960][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027557s)
+[2017.04.24-08.26.31:960][726]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.26.31:960][726]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2017.04.24-08.26.31:960][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.028529s)
+[2017.04.24-08.26.31:974][726]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.26.31:979][726]LogInit: FAudioDevice initialized.
+[2017.04.24-08.26.32:005][726]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.26.32:014][726]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.26.32
+[2017.04.24-08.26.32:014][726]LogWorld: Bringing up level for play took: 0.007898
+[2017.04.24-08.26.32:019][726]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 0.419
+[2017.04.24-08.26.38:938][550]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.26.39:943][670]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.26.39:945][670]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4043.333 Y=1879.393 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.26.40:944][789]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.26.40:945][789]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4048.925 Y=1874.020 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.26.45:045][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.27.14:853][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.27.31:442][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes21)
+[2017.04.24-08.27.32:263][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes24)
+[2017.04.24-08.27.32:708][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes23)
+[2017.04.24-08.27.33:427][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection5)
+[2017.04.24-08.27.34:920][404]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes24)
+[2017.04.24-08.27.37:938][662]Cmd: DELETE
+[2017.04.24-08.27.37:938][662]Cmd: ACTOR DELETE
+[2017.04.24-08.27.37:938][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.27.37:939][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.27.37:940][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.27.37:940][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.27.37:949][662]LogEditorActor: Deleted 4 Actors (0.011 secs)
+[2017.04.24-08.27.43:365][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.28.30:075][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes18)
+[2017.04.24-08.28.33:909][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes17)
+[2017.04.24-08.28.35:076][301]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes17)
+[2017.04.24-08.28.38:037][564]Cmd: DELETE
+[2017.04.24-08.28.38:037][564]Cmd: ACTOR DELETE
+[2017.04.24-08.28.38:038][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.28.38:039][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.28.38:047][564]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-08.28.39:654][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.29.22:001][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.29.22:977][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes13)
+[2017.04.24-08.29.23:912][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.29.48:410][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes23)
+[2017.04.24-08.30.55:313][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes5)
+[2017.04.24-08.30.57:296][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.30.58:414][157]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes5)
+[2017.04.24-08.31.01:195][397]Cmd: DELETE
+[2017.04.24-08.31.01:195][397]Cmd: ACTOR DELETE
+[2017.04.24-08.31.01:196][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.31.01:196][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.31.01:205][397]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-08.31.04:067][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes23)
+[2017.04.24-08.31.04:753][756]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes24)
+[2017.04.24-08.32.33:306][852]LogActorFactory: Actor Factory created FreeRoadSet_2LanesTIntersection
+[2017.04.24-08.32.35:879][ 93]LogActorFactory: Actor Factory created FreeRoadSet_2LanesTIntersection
+[2017.04.24-08.32.37:617][278]Cmd: TRANSACTION UNDO
+[2017.04.24-08.32.37:617][278]LogEditorTransaction: Undo Create Actors
+[2017.04.24-08.32.39:139][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes25)
+[2017.04.24-08.33.32:326][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes19)
+[2017.04.24-08.33.36:323][297]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes19)
+[2017.04.24-08.33.40:392][643]Cmd: DELETE
+[2017.04.24-08.33.40:392][643]Cmd: ACTOR DELETE
+[2017.04.24-08.33.40:393][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.33.40:401][643]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.33.41:437][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes34)
+[2017.04.24-08.33.43:279][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes35)
+[2017.04.24-08.34.32:227][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes35)
+[2017.04.24-08.35.30:598][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes4)
+[2017.04.24-08.36.28:171][636]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.04.24-08.36.33:553][133]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.36.54:866][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.37.03:428][873]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.04.24-08.37.07:700][199]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.37.21:173][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes38)
+[2017.04.24-08.37.37:853][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes25)
+[2017.04.24-08.39.04:451][934]LogSavePackage: Save=221.23ms
+[2017.04.24-08.39.04:451][934]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3_Auto2871A97D04CE51BE060CD40A6582E0DC9.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto2.umap'
+[2017.04.24-08.39.04:452][934]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto2.umap
+[2017.04.24-08.39.04:453][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Level_3' took 0.242
+[2017.04.24-08.39.04:453][934]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2017.04.24-08.39.22:845][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes38)
+[2017.04.24-08.39.23:659][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.40.10:550][827]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.40.33:441][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes38)
+[2017.04.24-08.41.03:591][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection)
+[2017.04.24-08.41.36:616][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes42)
+[2017.04.24-08.41.38:411][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.41.40:905][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes38)
+[2017.04.24-08.42.07:806][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection5)
+[2017.04.24-08.42.32:146][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes23)
+[2017.04.24-08.42.33:129][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes24)
+[2017.04.24-08.43.39:321][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection6)
+[2017.04.24-08.43.42:909][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes43)
+[2017.04.24-08.43.43:493][412]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes44)
+[2017.04.24-08.43.44:191][481]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes44)
+[2017.04.24-08.43.47:324][738]Cmd: DELETE
+[2017.04.24-08.43.47:324][738]Cmd: ACTOR DELETE
+[2017.04.24-08.43.47:325][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.43.47:326][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.43.47:334][738]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-08.43.50:297][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes32)
+[2017.04.24-08.43.50:846][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes33)
+[2017.04.24-08.43.51:835][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes31)
+[2017.04.24-08.44.34:160][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection6)
+[2017.04.24-08.45.05:371][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes45)
+[2017.04.24-08.45.11:324][940]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes45)
+[2017.04.24-08.45.15:049][233]Cmd: DELETE
+[2017.04.24-08.45.15:049][233]Cmd: ACTOR DELETE
+[2017.04.24-08.45.15:049][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.45.15:058][233]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.45.27:139][448]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.45.27:154][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.45.27:154][448]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:45:27 PM)
+[2017.04.24-08.45.27:154][448]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.45.27:183][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028355s)
+[2017.04.24-08.45.27:183][448]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.45.27:183][448]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2017.04.24-08.45.27:183][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.029186s)
+[2017.04.24-08.45.27:196][448]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.45.27:201][448]LogInit: FAudioDevice initialized.
+[2017.04.24-08.45.27:231][448]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.45.27:240][448]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.45.27
+[2017.04.24-08.45.27:240][448]LogWorld: Bringing up level for play took: 0.008103
+[2017.04.24-08.45.27:245][448]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 -0.37
+[2017.04.24-08.45.34:167][226]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.45.35:167][343]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.45.36:167][457]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.46.48:507][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes5)
+[2017.04.24-08.46.49:127][651]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes4)
+[2017.04.24-08.46.54:667][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.46.55:581][305]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.46.58:446][533]Cmd: DELETE
+[2017.04.24-08.46.58:446][533]Cmd: ACTOR DELETE
+[2017.04.24-08.46.58:447][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.46.58:456][533]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-08.46.59:753][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.47.01:092][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.47.05:219][260]Cmd: TRANSACTION UNDO
+[2017.04.24-08.47.05:219][260]LogEditorTransaction: Undo Move Actors
+[2017.04.24-08.47.06:009][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.47.07:244][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.47.10:373][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.47.11:455][889]Cmd: TRANSACTION UNDO
+[2017.04.24-08.47.11:455][889]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.24-08.47.11:985][925]Cmd: TRANSACTION UNDO
+[2017.04.24-08.47.11:985][925]LogEditorTransaction: Undo Move Actors
+[2017.04.24-08.47.12:799][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.47.13:556][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.47.59:912][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes28)
+[2017.04.24-08.48.00:332][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes29)
+[2017.04.24-08.48.00:804][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes27)
+[2017.04.24-08.48.02:992][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.48.03:405][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.48.03:831][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.48.04:548][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes10)
+[2017.04.24-08.48.05:378][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes9)
+[2017.04.24-08.48.06:183][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes31)
+[2017.04.24-08.48.06:580][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes33)
+[2017.04.24-08.48.06:959][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes32)
+[2017.04.24-08.48.08:660][ 66]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.48.12:082][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.48.12:408][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.48.13:114][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.48.23:193][213]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.48.23:929][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes26)
+[2017.04.24-08.48.37:197][605]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-08.48.58:583][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes7)
+[2017.04.24-08.48.59:123][235]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes6)
+[2017.04.24-08.49.56:580][826]LogSavePackage: Save=232.79ms
+[2017.04.24-08.49.56:580][826]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3_Auto3AF5082154304C39B614DC48B051B4DAC.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto3.umap'
+[2017.04.24-08.49.56:581][826]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto3.umap
+[2017.04.24-08.49.56:582][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Level_3' took 0.255
+[2017.04.24-08.49.56:582][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2017.04.24-08.51.38:324][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.51.54:074][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes3)
+[2017.04.24-08.52.26:738][897]LogSavePackage: Save=224.95ms
+[2017.04.24-08.52.26:738][897]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3C0F09CDA46AE8D149B9C9283D8819341.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-08.52.26:739][897]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-08.52.26:764][897]LogFileHelpers: Saving map 'Level_3' took 0.306
+[2017.04.24-08.53.08:079][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes22)
+[2017.04.24-08.53.08:956][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes38)
+[2017.04.24-08.53.09:585][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes39)
+[2017.04.24-08.53.29:530][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.54.01:338][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.54.02:207][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes8)
+[2017.04.24-08.56.12:683][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection4)
+[2017.04.24-08.56.28:410][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes19)
+[2017.04.24-08.56.29:099][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes18)
+[2017.04.24-08.56.29:982][831]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes18)
+[2017.04.24-08.56.32:897][ 64]Cmd: DELETE
+[2017.04.24-08.56.32:897][ 64]Cmd: ACTOR DELETE
+[2017.04.24-08.56.32:898][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.56.32:898][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-08.56.32:907][ 64]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-08.56.33:841][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes11)
+[2017.04.24-08.56.34:372][214]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes30)
+[2017.04.24-08.56.34:946][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes12)
+[2017.04.24-08.58.06:667][437]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-08.58.06:682][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-08.58.06:682][437]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 10:58:06 PM)
+[2017.04.24-08.58.06:682][437]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-08.58.06:710][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028039s)
+[2017.04.24-08.58.06:711][437]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-08.58.06:711][437]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2017.04.24-08.58.06:711][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.028911s)
+[2017.04.24-08.58.06:724][437]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-08.58.06:729][437]LogInit: FAudioDevice initialized.
+[2017.04.24-08.58.06:756][437]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-08.58.06:766][437]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-03.58.06
+[2017.04.24-08.58.06:766][437]LogWorld: Bringing up level for play took: 0.008566
+[2017.04.24-08.58.06:771][437]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 -0.854
+[2017.04.24-08.58.13:692][230]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.58.14:695][347]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.58.14:696][347]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4039.130 Y=1909.511 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.58.15:695][465]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-08.58.15:696][465]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4038.783 Y=1908.386 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-08.58.30:944][234]LogBlueprintUserMessages: [Ingame_UI_C_5] Tower Placement Enabled
+[2017.04.24-08.58.31:246][269]LogBlueprintUserMessages: [Ingame_UI_C_5] Shooting Enabled
+[2017.04.24-08.59.13:511][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes8)
+[2017.04.24-08.59.14:149][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes14)
+[2017.04.24-08.59.18:390][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes8)
+[2017.04.24-09.00.04:360][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.00.54:306][402]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes13)
+[2017.04.24-09.00.57:016][605]Cmd: DELETE
+[2017.04.24-09.00.57:016][605]Cmd: ACTOR DELETE
+[2017.04.24-09.00.57:017][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.00.57:026][605]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-09.00.58:774][738]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes3)
+[2017.04.24-09.01.01:405][910]Cmd: DELETE
+[2017.04.24-09.01.01:405][910]Cmd: ACTOR DELETE
+[2017.04.24-09.01.01:406][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.01.01:417][910]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2017.04.24-09.03.07:467][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes20)
+[2017.04.24-09.03.07:842][504]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes20)
+[2017.04.24-09.03.11:207][766]Cmd: DELETE
+[2017.04.24-09.03.11:207][766]Cmd: ACTOR DELETE
+[2017.04.24-09.03.11:207][766]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.03.11:216][766]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.04.24-09.03.28:356][449]LogActorFactory: Actor Factory created FreeRoadSet_2LanesTurn
+[2017.04.24-09.03.29:307][558]LogActorFactory: Actor Factory created FreeRoadSet_2LanesTurn
+[2017.04.24-09.03.30:970][736]Cmd: TRANSACTION UNDO
+[2017.04.24-09.03.30:970][736]LogEditorTransaction: Undo Create Actors
+[2017.04.24-09.03.31:896][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes35)
+[2017.04.24-09.03.39:091][558]Cmd: TRANSACTION UNDO
+[2017.04.24-09.03.39:091][558]LogEditorTransaction: Undo Edit Static Mesh
+[2017.04.24-09.03.52:110][815]Cmd: TRANSACTION UNDO
+[2017.04.24-09.03.52:110][815]LogEditorTransaction: Undo Edit Static Mesh
+[2017.04.24-09.04.26:142][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes16)
+[2017.04.24-09.04.27:335][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes15)
+[2017.04.24-09.04.28:149][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes15)
+[2017.04.24-09.04.31:003][501]Cmd: DELETE
+[2017.04.24-09.04.31:003][501]Cmd: ACTOR DELETE
+[2017.04.24-09.04.31:003][501]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.04.31:004][501]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.04.31:013][501]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-09.04.56:538][404]LogSavePackage: Save=228.51ms
+[2017.04.24-09.04.56:538][404]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3_Auto43B2DECAB42836F6166D20AB1BEE8F4B0.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto4.umap'
+[2017.04.24-09.04.56:538][404]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto4.umap
+[2017.04.24-09.04.56:539][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Level_3' took 0.248
+[2017.04.24-09.04.56:539][404]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.248
+[2017.04.24-09.05.01:833][928]LogActorFactory: Actor Factory created FreeRoadSet_2LanesXIntersection
+[2017.04.24-09.05.04:159][186]LogActorFactory: Actor Factory created FreeRoadSet_2LanesXIntersection
+[2017.04.24-09.05.06:939][482]Cmd: TRANSACTION UNDO
+[2017.04.24-09.05.06:939][482]LogEditorTransaction: Undo Create Actors
+[2017.04.24-09.05.08:131][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes52)
+[2017.04.24-09.06.27:769][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes29)
+[2017.04.24-09.06.30:070][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes28)
+[2017.04.24-09.07.05:217][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes52)
+[2017.04.24-09.08.35:631][740]LogSavePackage: Save=229.20ms
+[2017.04.24-09.08.35:631][740]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_342C9287D49D0A3DD150F0DAEE7BA09A1.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-09.08.35:632][740]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-09.08.48:068][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes21)
+[2017.04.24-09.08.48:810][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes48)
+[2017.04.24-09.08.52:497][474]Cmd: TRANSACTION UNDO
+[2017.04.24-09.08.52:497][474]LogEditorTransaction: Undo Rotate Actors
+[2017.04.24-09.13.50:738][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes60)
+[2017.04.24-09.13.53:766][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes60)
+[2017.04.24-09.15.36:720][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes58)
+[2017.04.24-09.15.49:394][347]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.24-09.15.49:409][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.24-09.15.49:409][347]PIE: New page: PIE session: Level_3 (Apr 23, 2017, 11:15:49 PM)
+[2017.04.24-09.15.49:410][347]LogPlayLevel: Creating play world package: /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3
+[2017.04.24-09.15.49:439][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028994s)
+[2017.04.24-09.15.49:439][347]LogAIModule: Creating AISystem for world Level_3
+[2017.04.24-09.15.49:439][347]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.04.24-09.15.49:439][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZTD_Blueprint/Maps/Level_3.Level_3 to /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 (0.029889s)
+[2017.04.24-09.15.49:452][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.24-09.15.49:458][347]LogInit: FAudioDevice initialized.
+[2017.04.24-09.15.49:489][347]LogLoad: Game class is 'ZTD_GameMode_C'
+[2017.04.24-09.15.49:499][347]LogWorld: Bringing World /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2017.04.24-04.15.49
+[2017.04.24-09.15.49:499][347]LogWorld: Bringing up level for play took: 0.008762
+[2017.04.24-09.15.49:504][347]PIE: Info Play in editor start time for /Game/ZTD_Blueprint/Maps/UEDPIE_0_Level_3 -0.136
+[2017.04.24-09.15.51:350][560]LogBlueprintUserMessages: [Ingame_UI_C_6] Tower Placement Enabled
+[2017.04.24-09.15.52:040][641]LogBlueprintUserMessages: [Ingame_UI_C_6] Shooting Enabled
+[2017.04.24-09.15.56:428][156]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-09.15.57:436][271]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-09.15.57:437][271]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4045.705 Y=1920.661 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-09.15.58:443][387]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
+[2017.04.24-09.15.58:444][387]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=4044.265 Y=1918.990 Z=222.000] for [Zombie_Character_C]
+[2017.04.24-09.16.11:545][895]LogBlueprintUserMessages: [Ingame_UI_C_6] Tower Placement Enabled
+[2017.04.24-09.16.12:298][984]LogBlueprintUserMessages: [Ingame_UI_C_6] Shooting Enabled
+[2017.04.24-09.16.58:649][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes60)
+[2017.04.24-09.17.05:460][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes59)
+[2017.04.24-09.17.15:237][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes60)
+[2017.04.24-09.17.54:598][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes61)
+[2017.04.24-09.18.26:140][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes62)
+[2017.04.24-09.18.26:819][761]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.18.30:572][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes62)
+[2017.04.24-09.19.10:852][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes56)
+[2017.04.24-09.20.09:915][773]LogSavePackage: Save=231.57ms
+[2017.04.24-09.20.09:915][773]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3_Auto51C376899415EAFFC789123BE3B80D49E.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto5.umap'
+[2017.04.24-09.20.09:915][773]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/Level_3_Auto5.umap
+[2017.04.24-09.20.09:916][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Level_3' took 0.252
+[2017.04.24-09.20.09:916][773]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.252
+[2017.04.24-09.20.11:226][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes63)
+[2017.04.24-09.21.05:870][297]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.21.12:318][829]LogSavePackage: Save=234.14ms
+[2017.04.24-09.21.12:318][829]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_327791E5C453135489470D1A6C9D13E1C.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-09.21.12:319][829]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-09.21.39:358][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes59)
+[2017.04.24-09.21.40:135][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes61)
+[2017.04.24-09.22.14:379][110]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.22.21:074][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes65)
+[2017.04.24-09.22.22:498][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes66)
+[2017.04.24-09.22.23:298][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes66)
+[2017.04.24-09.22.25:342][249]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes65)
+[2017.04.24-09.23.04:079][365]Cmd: TRANSACTION UNDO
+[2017.04.24-09.23.04:079][365]LogEditorTransaction: Undo Rotate Actors
+[2017.04.24-09.23.08:856][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes68)
+[2017.04.24-09.23.10:159][736]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes67)
+[2017.04.24-09.23.11:130][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes68)
+[2017.04.24-09.23.11:668][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes67)
+[2017.04.24-09.23.12:302][865]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes68)
+[2017.04.24-09.23.49:002][589]LogSavePackage: Save=232.39ms
+[2017.04.24-09.23.49:002][589]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3C6D9716744EE4AEA7B1375ADCE74C51B.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-09.23.49:004][589]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-09.24.25:720][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes60)
+[2017.04.24-09.25.06:636][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes50)
+[2017.04.24-09.26.11:023][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes21)
+[2017.04.24-09.26.11:727][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes48)
+[2017.04.24-09.29.05:688][424]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.29.28:116][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes73)
+[2017.04.24-09.29.28:762][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes72)
+[2017.04.24-09.29.30:200][285]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FreeRoadSet_2Lanes72)
+[2017.04.24-09.29.32:690][426]Cmd: DELETE
+[2017.04.24-09.29.32:690][426]Cmd: ACTOR DELETE
+[2017.04.24-09.29.32:691][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.29.32:692][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.24-09.29.32:700][426]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2017.04.24-09.29.36:202][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes18)
+[2017.04.24-09.29.36:705][667]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes49)
+[2017.04.24-09.29.37:344][704]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes19)
+[2017.04.24-09.30.00:419][399]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.00:419][399]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.30.00:819][427]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.00:819][427]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.30.01:169][454]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.01:169][454]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.30.01:500][482]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.01:500][482]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.30.01:908][518]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.01:909][518]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.30.02:334][553]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.02:334][553]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.24-09.30.02:872][596]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.02:872][596]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.24-09.30.03:431][643]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.03:431][643]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.24-09.30.03:972][696]Cmd: TRANSACTION UNDO
+[2017.04.24-09.30.03:972][696]LogEditorTransaction: Undo Delete Actors
+[2017.04.24-09.30.06:740][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes73)
+[2017.04.24-09.30.11:976][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FreeRoadSet_2Lanes72)
+[2017.04.24-09.30.27:254][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2Lanes73)
+[2017.04.24-09.31.00:065][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FreeRoadSet_2LanesXIntersection7)
+[2017.04.24-09.32.20:284][371]LogSavePackage: Save=234.90ms
+[2017.04.24-09.32.20:284][371]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_356A2626E4EC1D57234071E8E9E5C419A.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-09.32.20:285][371]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-09.32.20:310][371]LogFileHelpers: Saving map 'Level_3' took 0.311
+[2017.04.24-09.36.30:435][362]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.31:313][417]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.32:059][464]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.32:230][472]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.04.24-09.36.32:993][523]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.33:182][532]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.04.24-09.36.33:508][554]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.33:647][560]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.04.24-09.36.33:990][583]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.34:128][589]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.04.24-09.36.34:487][613]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.34:718][626]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.04.24-09.36.36:151][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.04.24-09.36.46:730][618]Cmd: TRANSACTION UNDO
+[2017.04.24-09.36.46:730][618]LogEditorTransaction: Undo Move Actors
+[2017.04.24-09.36.56:829][453]LogSavePackage: Save=236.94ms
+[2017.04.24-09.36.56:829][453]LogSavePackage: Moving '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Level_3FE454BD64BED98CBBAF17C883C02ED5C.tmp' to '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap'
+[2017.04.24-09.36.56:830][453]LogSavePackage:Display: Finished SavePackage ../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Level_3.umap
+[2017.04.24-09.36.56:855][453]LogFileHelpers: Saving map 'Level_3' took 0.311
+[2017.04.24-09.37.09:903][586]Cmd: QUIT_EDITOR
+[2017.04.24-09.37.09:972][586]LogExit: Preparing to exit.
+[2017.04.24-09.37.10:730][586]LogDirectoryWatcher: A directory notification for 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/' was aborted.
+[2017.04.24-09.37.10:750][586]LogExit: Editor shut down
+[2017.04.24-09.37.10:750][586]LogExit: Transaction tracking system shut down
+[2017.04.24-09.37.10:806][586]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.24-09.37.10:807][586]LogExit: Object subsystem successfully closed.
+[2017.04.24-09.37.10:820][586]LogD3D11RHI: Shutdown
+[2017.04.24-09.37.10:820][586]LogD3D11RHI: CleanupD3DDevice
+[2017.04.24-09.37.10:879][586]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.24-09.37.10:885][586]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.24-09.37.10:885][586]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB860E85E-4D3A-DB01-7323-50937D19AA1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=bed8f3cd48c5be55f5890f9061d1894c%7C852277445ad84a15ade079261bc4428e%7C29ef773b-eab5-4163-a621-c753475aef0a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (243)
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (242)
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.24-09.37.10:891][586]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.24-09.37.10:892][586]LogDirectoryWatcher: A directory notification for 'B:/Unreal Engine 4.14.3/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.24-09.37.10:892][586]LogDirectoryWatcher: A directory notification for 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/Collections/' was aborted.
+[2017.04.24-09.37.10:892][586]LogDirectoryWatcher: A directory notification for 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/Developers/MASTACHIEF/Collections/' was aborted.
+[2017.04.24-09.37.10:892][586]LogDirectoryWatcher: A directory notification for 'B:/UE4 Projects/ZombieStuff/Zombie_TowerDefense/Saved/Collections/' was aborted.
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.24-09.37.10:892][586]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.24-09.37.10:893][586]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.24-09.37.11:386][586]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.24-09.37.11:387][586]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.24-09.37.11:387][586]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.24-09.37.11:427][586]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.24-09.37.11:428][586]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.24-09.37.11:429][586]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.24-09.37.11:670][586]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.24-09.37.11:671][586]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.24-09.37.11:672][586]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.24-09.37.11:673][586]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.24-09.37.11:673][586]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.24-09.37.11:773][586]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.24-09.37.11:873][586]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.24-09.37.11:874][586]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.24-09.37.11:874][586]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.24-09.37.11:874][586]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.24-09.37.11:874][586]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.24-09.37.11:875][586]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.24-09.37.11:875][586]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.24-09.37.11:875][586]LogDirectoryWatcher: A directory notification for '../../../../../UE4 Projects/ZombieStuff/Zombie_TowerDefense/Content/' was aborted.
+[2017.04.24-09.37.11:875][586]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.24-09.37.11:876][586]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.24-09.37.11:970][586]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.24-09.37.12:040][586]LogDerivedDataCache: Shutdown
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.24-09.37.12:040][586]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.24-09.37.12:041][586]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.24-09.37.12:041][586]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.24-09.37.12:042][586]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.24-09.37.12:043][586]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.24-09.37.12:044][586]LogExit: Exiting.
+[2017.04.24-09.37.12:046][586]Log file closed, 04/24/17 04:37:12
