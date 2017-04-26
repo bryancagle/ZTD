@@ -1,3 +1,107 @@
+<<<<<<< HEAD
+﻿Log file open, 04/25/17 19:02:14
+LogInit:Display: Running engine for game: Zombie_Tower_Defense
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1619864873) SRandInit(1619864873).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067914
+LogPluginManager: Loaded Plugin Paper2D, From E:/2016 Install/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/2016 Install/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/2016 Install/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/2016 Install/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/2016 Install/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/2016 Install/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/2016 Install/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/2016 Install/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/2016 Install/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/2016 Install/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/2016 Install/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/2016 Install/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/2016 Install/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/2016 Install/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/2016 Install/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/2016 Install/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/2016 Install/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/2016 Install/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/2016 Install/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/2016 Install/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From E:/2016 Install/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From E:/2016 Install/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From E:/2016 Install/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From E:/2016 Install/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From E:/2016 Install/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+=======
 ﻿Log file open, 04/25/17 19:56:01
 LogInit:Display: Running engine for game: Zombie_Tower_Defense
 LogPlatformFile: Not using cached read wrapper
@@ -100,6 +204,7 @@ LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files 
 LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
 LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
 LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+>>>>>>> master
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -138,6 +243,979 @@ LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
 LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.14
+<<<<<<< HEAD
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/2016 Install/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.26-00.02.15:270][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.26-00.02.15:270][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.26-00.02.15:318][  0]LogInit: Computer: NIARAII
+[2017.04.26-00.02.15:318][  0]LogInit: User: Jonathan
+[2017.04.26-00.02.15:318][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.26-00.02.15:318][  0]LogInit: High frequency timer resolution =3.025634 MHz
+[2017.04.26-00.02.15:320][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.04.26-00.02.15:320][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.26-00.02.15:320][  0]LogMemory: Process Physical Memory: 264.82 MB used, 264.82 MB peak
+[2017.04.26-00.02.15:320][  0]LogMemory: Process Virtual Memory: 264.93 MB used, 264.93 MB peak
+[2017.04.26-00.02.15:320][  0]LogMemory: Physical Memory: 5678.31 MB used,  2448.85 MB free, 8127.16 MB total
+[2017.04.26-00.02.15:320][  0]LogMemory: Virtual Memory: 675.91 MB used,  2448.85 MB free, 8388608.00 MB total
+[2017.04.26-00.02.15:355][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.26-00.02.16:074][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.26-00.02.16:084][  0]LogD3D11RHI:    0. 'AMD Radeon R7 200 Series' (Feature Level 11_0)
+[2017.04.26-00.02.16:084][  0]LogD3D11RHI:       2026/0/3807 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.04.26-00.02.16:084][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.26-00.02.16:088][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.26-00.02.16:088][  0]LogD3D11RHI:     GPU DeviceId: 0x683d (for the marketing name, search the web for "GPU Device Id")
+[2017.04.26-00.02.16:088][  0]LogWindows: EnumDisplayDevices:
+[2017.04.26-00.02.16:088][  0]LogWindows:    0. 'AMD Radeon R7 200 Series' (P:0 D:1)
+[2017.04.26-00.02.16:088][  0]LogWindows:    1. 'AMD Radeon R7 200 Series' (P:1 D:1)
+[2017.04.26-00.02.16:089][  0]LogWindows:    2. 'AMD Radeon R7 200 Series' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    3. 'AMD Radeon R7 200 Series' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    4. 'AMD Radeon R7 200 Series' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    5. 'AMD Radeon R7 200 Series' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.04.26-00.02.16:089][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.04.26-00.02.16:090][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.04.26-00.02.16:090][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 200 Series
+[2017.04.26-00.02.16:090][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.2.1 (internal:21.19.519.2, unified:21.19.519.2)
+[2017.04.26-00.02.16:090][  0]LogD3D11RHI:      Driver Date: 2-10-2017
+[2017.04.26-00.02.16:090][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.26-00.02.16:097][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.26-00.02.16:106][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.04.26-00.02.16:106][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../Zombie_TowerDefense/Intermediate/Shaders/WorkingDirectory/4568/).
+[2017.04.26-00.02.16:106][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonathan/AppData/Local/Temp/UnrealShaderWorkingDir/B92391544B16B9239BDC57BF14E39BD3/'.
+[2017.04.26-00.02.16:106][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.26-00.02.17:305][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.26-00.02.17:364][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.26-00.02.17:421][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.26-00.02.17:475][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.26-00.02.17:524][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.26-00.02.17:581][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.26-00.02.17:637][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.26-00.02.17:689][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.26-00.02.17:731][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.26-00.02.17:794][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.26-00.02.17:850][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.26-00.02.17:896][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.26-00.02.17:945][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.26-00.02.17:994][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.26-00.02.18:044][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.26-00.02.18:143][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.26-00.02.18:143][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.26-00.02.18:174][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.26-00.02.18:298][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.26-00.02.18:353][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.26-00.02.18:406][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.26-00.02.18:454][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.26-00.02.18:502][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.26-00.02.18:548][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.26-00.02.18:548][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.26-00.02.18:809][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.26-00.02.18:860][  0]LogDerivedDataCache: Loaded boot cache 0.05s 50MB C:/Users/Jonathan/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.26-00.02.18:861][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Jonathan/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.26-00.02.18:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Zombie_TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.26-00.02.18:861][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.26-00.02.18:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Zombie_TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.26-00.02.18:861][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.26-00.02.18:881][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.26-00.02.18:891][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.26-00.02.19:088][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.26-00.02.19:092][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.26-00.02.19:281][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.26-00.02.19:313][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.26-00.02.19:347][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.26-00.02.19:347][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.26-00.02.19:347][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.26-00.02.19:854][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: zombie_tower_defense, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2528811943
+[2017.04.26-00.02.19:905][  0]LogAssetRegistry: FAssetRegistry took 0.0241 seconds to start up
+[2017.04.26-00.02.20:048][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.128788 seconds
+[2017.04.26-00.02.20:054][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.26-00.02.20:054][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.26-00.02.20:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.26-00.02.20:099][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.26-00.02.20:622][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.26-00.02.20:622][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.26-00.02.20:622][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.26-00.02.21:358][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.26-00.02.21:385][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.26-00.02.21:668][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.26-00.02.21:967][  0]SourceControl: Info Source control is disabled
+[2017.04.26-00.02.21:967][  0]SourceControl: Info Source control is disabled
+[2017.04.26-00.02.22:001][  0]SourceControl: Info Source control is disabled
+[2017.04.26-00.02.22:032][  0]SourceControl: Info Source control is disabled
+[2017.04.26-00.02.22:986][  0]LogEngine: Initializing Engine...
+[2017.04.26-00.02.22:986][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.26-00.02.23:337][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.26-00.02.23:350][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.26-00.02.23:359][  0]LogInit: FAudioDevice initialized.
+[2017.04.26-00.02.23:384][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Jonathan/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.26-00.02.23:390][  0]LogInit: Texture streaming: Enabled
+[2017.04.26-00.02.23:524][  0]LogInit: Transaction tracking system initialized
+[2017.04.26-00.02.23:770][  0]BlueprintLog: New page: Editor Load
+[2017.04.26-00.02.24:413][  0]LocalizationService: Info Localization service is disabled
+[2017.04.26-00.02.24:880][  0]LogConsoleResponse:Display: 
+[2017.04.26-00.02.25:050][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.26-00.02.25:050][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.26-00.02.25:735][  0]LogFileCache: Scanning file cache for directory 'E:/Zombie_TowerDefense/Content/' took 0.02s
+[2017.04.26-00.02.25:735][  0]SourceControl: Info Source control is disabled
+[2017.04.26-00.02.25:736][  0]Cmd: MAP LOAD FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.26-00.02.25:736][  0]LightingResults: New page: Lighting Build
+[2017.04.26-00.02.25:765][  0]MapCheck: New page: Map Check
+[2017.04.26-00.02.25:765][  0]LightingResults: New page: Lighting Build
+[2017.04.26-00.02.28:688][  0]LogAIModule: Creating AISystem for world Menu_Main
+[2017.04.26-00.02.28:689][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.26-00.02.28:690][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.26-00.02.28:729][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 38.9ms to complete.
+[2017.04.26-00.02.28:729][  0]LogFileHelpers: Loading map 'Menu_Main' took 2.993
+[2017.04.26-00.02.29:270][  0]LogCollectionManager: Loaded 0 collections in 0.001613 seconds
+[2017.04.26-00.02.29:394][  0]LogFileCache: Scanning file cache for directory 'E:/Zombie_TowerDefense/Saved/Collections/' took 0.01s
+[2017.04.26-00.02.29:394][  0]LogFileCache: Scanning file cache for directory 'E:/Zombie_TowerDefense/Content/Developers/Jonathan/Collections/' took 0.01s
+[2017.04.26-00.02.29:394][  0]LogFileCache: Scanning file cache for directory 'E:/Zombie_TowerDefense/Content/Collections/' took 0.00s
+[2017.04.26-00.02.29:394][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.04.26-00.02.29:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2190 classes and 428 folders.
+[2017.04.26-00.02.29:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.26-00.02.29:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.26-00.02.29:505][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.04.26-00.02.29:600][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.04.26-00.02.30:216][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.04.26-00.02.30:252][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.26-00.02.30:324][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.26-00.02.30:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.04.26-00.02.30:408][  0]LogLoad: (Engine Initialization) Total time: 17.97 seconds
+[2017.04.26-00.02.30:408][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.67 seconds
+[2017.04.26-00.02.30:408][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.04.26-00.02.30:747][  0]LogOcInput: OculusInput pre-init called
+[2017.04.26-00.02.30:813][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.26-00.02.31:286][  0]LogRenderer: Reallocating scene render targets to support 1264x484 NumSamples 1 (Frame:2).
+[2017.04.26-00.02.32:111][  3]LogAssetRegistry: Asset discovery search completed in 12.2297 seconds
+[2017.04.26-00.02.32:111][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.04.26-00.02.32:111][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2017.04.26-00.02.39:782][181]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.02.40:155][181]LogSavePackage: Save=135.96ms
+[2017.04.26-00.02.40:155][181]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main217FDA0E40EE1696364A7AA61B633507.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.02.40:155][181]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.02.40:166][181]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.07.28:844][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
+[2017.04.26-00.09.29:588][291]Cmd: TRANSACTION UNDO
+[2017.04.26-00.09.29:588][291]LogEditorTransaction: Undo Edit Image
+[2017.04.26-00.12.07:206][312]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.15.20:605][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.046
+[2017.04.26-00.15.20:606][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu] ([1] browsable assets)...
+[2017.04.26-00.15.20:606][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu]
+[2017.04.26-00.15.20:658][588]LogSavePackage: Save=41.10ms
+[2017.04.26-00.15.20:658][588]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenu_Auto14CF439164346478F33F76F94D1350581.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu_Auto1.uasset'
+[2017.04.26-00.15.20:711][588]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu_Auto1.uasset
+[2017.04.26-00.15.20:711][588]LogFileHelpers: Auto-saving content packages took 0.105
+[2017.04.26-00.23.19:762][345]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/optionsbackground.png)
+[2017.04.26-00.23.19:817][345]LogTexture:Display: Building textures: optionsbackground (AutoDXT)
+[2017.04.26-00.25.10:916][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset" SILENT=true
+[2017.04.26-00.25.10:970][736]LogSavePackage: Save=41.81ms
+[2017.04.26-00.25.10:970][736]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenu8472254843F56169D48EF8ADDD610F78.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset'
+[2017.04.26-00.25.10:971][736]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset
+[2017.04.26-00.25.14:458][909]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.25.16:137][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/optionsbackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset" SILENT=true
+[2017.04.26-00.25.16:227][909]LogSavePackage: Save=87.99ms
+[2017.04.26-00.25.16:227][909]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/optionsbackgroundA1456164476C45E618FFC6AE8CA1D8A2.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset'
+[2017.04.26-00.25.16:228][909]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset
+[2017.04.26-00.25.16:405][909]LogSavePackage: Save=104.02ms
+[2017.04.26-00.25.16:405][909]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main04934F4941EAB372BE7895AE4C13DAF0.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.25.16:406][909]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.25.16:411][909]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.27.13:159][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.043
+[2017.04.26-00.27.13:165][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu] ([1] browsable assets)...
+[2017.04.26-00.27.13:165][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu]
+[2017.04.26-00.27.13:299][976]LogSavePackage: Save=85.13ms
+[2017.04.26-00.27.13:299][976]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenu_Auto2C8062B2E413358CD4B308BB11B9C9CAB.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu_Auto2.uasset'
+[2017.04.26-00.27.13:318][976]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu_Auto2.uasset
+[2017.04.26-00.27.13:318][976]LogFileHelpers: Auto-saving content packages took 0.157
+[2017.04.26-00.32.15:908][271]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/optionsbackground.png]
+[2017.04.26-00.32.15:909][271]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/optionsbackground.png)
+[2017.04.26-00.32.15:928][271]LogTexture:Display: Building textures: optionsbackground (AutoDXT)
+[2017.04.26-00.32.16:089][271]LogEditorFactories: -- imported successfully
+[2017.04.26-00.32.19:696][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset" SILENT=true
+[2017.04.26-00.32.19:746][424]LogSavePackage: Save=41.53ms
+[2017.04.26-00.32.19:746][424]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenuF35AACD94E0C31D60540AE88EFCBAACA.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset'
+[2017.04.26-00.32.19:747][424]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset
+[2017.04.26-00.32.20:299][452]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.32.25:117][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/optionsbackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset" SILENT=true
+[2017.04.26-00.32.25:182][452]LogSavePackage: Save=56.56ms
+[2017.04.26-00.32.25:182][452]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/optionsbackgroundC7A1D3254EEF546BBF49BE8002361AFF.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset'
+[2017.04.26-00.32.25:183][452]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/optionsbackground.uasset
+[2017.04.26-00.32.25:334][452]LogSavePackage: Save=91.30ms
+[2017.04.26-00.32.25:334][452]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainBB908D914A5CC8796C6F7F91338C5EA6.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.32.25:335][452]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.32.25:338][452]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.33.22:986][939]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MapBackground.png]
+[2017.04.26-00.33.22:991][939]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MapBackground.png)
+[2017.04.26-00.33.23:138][939]LogTexture:Display: Building textures: MapBackground (AutoDXT)
+[2017.04.26-00.33.24:286][939]LogEditorFactories: -- imported successfully
+[2017.04.26-00.33.37:013][ 56]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MapBackground.png]
+[2017.04.26-00.33.37:017][ 56]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MapBackground.png)
+[2017.04.26-00.33.37:147][ 56]LogTexture:Display: Building textures: MapBackground (AutoDXT)
+[2017.04.26-00.33.38:287][ 56]LogEditorFactories: -- imported successfully
+[2017.04.26-00.33.45:947][199]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.33.47:162][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/MapBackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset" SILENT=true
+[2017.04.26-00.33.47:592][199]LogSavePackage: Save=309.68ms
+[2017.04.26-00.33.47:592][199]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MapBackground285A7DD045B323B2DF79A8802A177500.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset'
+[2017.04.26-00.33.47:594][199]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset
+[2017.04.26-00.33.47:773][199]LogSavePackage: Save=96.49ms
+[2017.04.26-00.33.47:773][199]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainB1D290B046D746CF926F9693E79A92CA.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.33.47:773][199]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.33.47:778][199]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.35.20:145][803]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MapBackground.png]
+[2017.04.26-00.35.20:149][803]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MapBackground.png)
+[2017.04.26-00.35.20:272][803]LogTexture:Display: Building textures: MapBackground (AutoDXT)
+[2017.04.26-00.35.21:373][803]LogEditorFactories: -- imported successfully
+[2017.04.26-00.35.23:823][915]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.35.25:123][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/MapBackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset" SILENT=true
+[2017.04.26-00.35.25:429][915]LogSavePackage: Save=299.24ms
+[2017.04.26-00.35.25:430][915]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MapBackground470B2A3248AD8508E7F24192FB05E478.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset'
+[2017.04.26-00.35.25:431][915]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset
+[2017.04.26-00.35.25:615][915]LogSavePackage: Save=104.20ms
+[2017.04.26-00.35.25:615][915]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainA9E6229A4D07A4BEE397F5A3B743D114.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.35.25:616][915]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.35.25:628][915]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.36.19:617][322]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MapBackground.png]
+[2017.04.26-00.36.19:620][322]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MapBackground.png)
+[2017.04.26-00.36.19:730][322]LogTexture:Display: Building textures: MapBackground (AutoDXT)
+[2017.04.26-00.36.20:736][322]LogEditorFactories: -- imported successfully
+[2017.04.26-00.36.22:782][421]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.36.30:950][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/MapBackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset" SILENT=true
+[2017.04.26-00.36.31:256][421]LogSavePackage: Save=282.88ms
+[2017.04.26-00.36.31:256][421]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MapBackground68B6C78041B644BE09BFC481ADF02AA5.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset'
+[2017.04.26-00.36.31:257][421]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset
+[2017.04.26-00.36.31:412][421]LogSavePackage: Save=92.98ms
+[2017.04.26-00.36.31:412][421]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainD6F2BBF04E16AD39E23DDBADF1FEABE5.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.36.31:413][421]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.36.31:417][421]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.37.22:280][940]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MenuBackground.png]
+[2017.04.26-00.37.22:296][940]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MenuBackground.png)
+[2017.04.26-00.37.22:511][940]LogTexture:Display: Building textures: MenuBackground (BGRA8)
+[2017.04.26-00.37.22:917][940]LogEditorFactories: -- imported successfully
+[2017.04.26-00.37.28:704][228]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/MapBackground.png]
+[2017.04.26-00.37.28:708][228]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/MapBackground.png)
+[2017.04.26-00.37.28:822][228]LogTexture:Display: Building textures: MapBackground (AutoDXT)
+[2017.04.26-00.37.29:841][228]LogEditorFactories: -- imported successfully
+[2017.04.26-00.37.31:786][325]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.37.33:530][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/MapBackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset" SILENT=true
+[2017.04.26-00.37.33:810][325]LogSavePackage: Save=273.66ms
+[2017.04.26-00.37.33:810][325]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MapBackground154CCA964A4FE35D74F4AA8FAA689BB2.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset'
+[2017.04.26-00.37.33:813][325]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MapBackground.uasset
+[2017.04.26-00.37.33:821][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/MenuBackground" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MenuBackground.uasset" SILENT=true
+[2017.04.26-00.37.34:365][325]LogSavePackage: Save=439.84ms
+[2017.04.26-00.37.34:365][325]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MenuBackgroundE369B0A14E1C7FAABF535FA8CD758741.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MenuBackground.uasset'
+[2017.04.26-00.37.34:367][325]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/MenuBackground.uasset
+[2017.04.26-00.37.34:545][325]LogSavePackage: Save=94.48ms
+[2017.04.26-00.37.34:545][325]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainA041899243DC1276C36CB3B66A340EC2.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.37.34:545][325]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.37.34:549][325]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.38.29:304][161]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.26-00.38.32:270][307]Cmd: SELECT NONE
+[2017.04.26-00.41.06:607][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset" SILENT=true
+[2017.04.26-00.41.06:911][980]LogSavePackage: Save=69.00ms
+[2017.04.26-00.41.06:911][980]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenuDE7F1106441B51A21ED3EC97DC0E6FC1.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset'
+[2017.04.26-00.41.06:913][980]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset
+[2017.04.26-00.41.27:332][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset" SILENT=true
+[2017.04.26-00.41.27:392][988]LogSavePackage: Save=45.75ms
+[2017.04.26-00.41.27:392][988]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenuBC1A63374CC746BA4CE9DCB0BE526DDB.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset'
+[2017.04.26-00.41.27:394][988]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset
+[2017.04.26-00.41.27:968][ 20]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.41.28:245][ 20]LogSavePackage: Save=105.79ms
+[2017.04.26-00.41.28:245][ 20]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main6B685C704D23768B0D6E4CB6B2B1BB89.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.41.28:246][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.41.28:250][ 20]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.42.47:187][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/MapSelect" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/MapSelect.uasset" SILENT=true
+[2017.04.26-00.42.47:210][444]LogSavePackage: Save=15.81ms
+[2017.04.26-00.42.47:210][444]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/MapSelect961F0EA74D22593C3A6B7CACCA52211F.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/MapSelect.uasset'
+[2017.04.26-00.42.47:211][444]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/MapSelect.uasset
+[2017.04.26-00.42.51:484][666]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.42.51:756][666]LogSavePackage: Save=92.61ms
+[2017.04.26-00.42.51:756][666]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main2D134D694F2D89BED8DA8CB6B8C863E6.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.42.51:756][666]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.42.51:759][666]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-00.48.07:195][267]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.48.39:972][ 41]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.48.55:702][815]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.49.20:740][616]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.50.09:796][274]LogEditorTransaction: Undo Remove Widget
+[2017.04.26-00.51.13:265][214]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.52.06:801][115]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.52.29:513][717]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.52.33:536][140]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.52.47:593][747]LogEditorTransaction: Undo Move Widget
+[2017.04.26-00.52.47:838][770]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.52.48:073][783]LogEditorTransaction: Undo Add Widget
+[2017.04.26-00.52.50:428][ 63]LogEditorTransaction: Redo Add Widget
+[2017.04.26-00.52.50:669][ 90]LogEditorTransaction: Redo Move Widgets
+[2017.04.26-00.52.51:244][157]LogEditorTransaction: Undo Move Widgets
+[2017.04.26-00.53.57:057][804]LogEditorTransaction: Undo Remove Widget
+[2017.04.26-00.54.02:004][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.041
+[2017.04.26-00.54.02:005][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu] ([1] browsable assets)...
+[2017.04.26-00.54.02:005][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu]
+[2017.04.26-00.54.02:060][330]LogSavePackage: Save=47.57ms
+[2017.04.26-00.54.02:060][330]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menu_Auto3C2C802ED4B529D25A2CB49A1856AC9CF.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu_Auto3.uasset'
+[2017.04.26-00.54.02:061][330]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu_Auto3.uasset
+[2017.04.26-00.54.02:061][330]LogFileHelpers: Auto-saving content packages took 0.056
+[2017.04.26-00.55.54:228][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset" SILENT=true
+[2017.04.26-00.55.54:271][  1]LogSavePackage: Save=26.79ms
+[2017.04.26-00.55.54:271][  1]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menuC22729C84B6F53D4A47C109EFB945CF9.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset'
+[2017.04.26-00.55.54:449][  1]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset
+[2017.04.26-00.55.55:060][ 74]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-00.55.55:328][ 74]LogSavePackage: Save=95.35ms
+[2017.04.26-00.55.55:328][ 74]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main7B96C9B04D23DA96FDDD9DA8DE56C93B.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-00.55.55:328][ 74]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-00.55.55:331][ 74]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-01.00.41:194][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset" SILENT=true
+[2017.04.26-01.00.41:446][977]LogSavePackage: Save=32.00ms
+[2017.04.26-01.00.41:446][977]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menu465147E049F6E00D7E17FF8C31141363.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset'
+[2017.04.26-01.00.41:447][977]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset
+[2017.04.26-01.01.01:682][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button1_c.png)
+[2017.04.26-01.01.01:686][745]LogTexture:Display: Building textures: button1_c (BGRA8)
+[2017.04.26-01.01.01:697][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button2_c.png)
+[2017.04.26-01.01.01:702][745]LogTexture:Display: Building textures: button2_c (BGRA8)
+[2017.04.26-01.01.01:715][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button3_c.png)
+[2017.04.26-01.01.01:720][745]LogTexture:Display: Building textures: button3_c (BGRA8)
+[2017.04.26-01.01.05:354][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Maps/Menu_Main" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-01.01.05:509][969]LogSavePackage: Save=90.90ms
+[2017.04.26-01.01.05:509][969]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Menu_Main310A5DE14E5622992D6AB387D2E66847.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap'
+[2017.04.26-01.01.05:520][969]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap
+[2017.04.26-01.02.07:374][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset" SILENT=true
+[2017.04.26-01.02.07:399][560]LogSavePackage: Save=18.16ms
+[2017.04.26-01.02.07:399][560]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menuF680864E4C4F6BF0E2086BAD68BFEC34.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset'
+[2017.04.26-01.02.07:400][560]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset
+[2017.04.26-01.02.07:858][615]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-01.02.09:283][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button1_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset" SILENT=true
+[2017.04.26-01.02.09:295][615]LogSavePackage: Save=10.22ms
+[2017.04.26-01.02.09:295][615]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button1_cF4575E8D41D36A992BF520BF5989A382.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset'
+[2017.04.26-01.02.09:296][615]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset
+[2017.04.26-01.02.09:300][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button2_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset" SILENT=true
+[2017.04.26-01.02.09:316][615]LogSavePackage: Save=15.28ms
+[2017.04.26-01.02.09:316][615]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button2_c681151D646822D788FD362B4179099A6.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset'
+[2017.04.26-01.02.09:317][615]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset
+[2017.04.26-01.02.09:322][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button3_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset" SILENT=true
+[2017.04.26-01.02.09:336][615]LogSavePackage: Save=12.63ms
+[2017.04.26-01.02.09:336][615]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button3_c6EEC862E4D19017F6565A697B1516ADF.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset'
+[2017.04.26-01.02.09:337][615]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset
+[2017.04.26-01.02.09:511][615]LogSavePackage: Save=89.76ms
+[2017.04.26-01.02.09:511][615]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main43D1EAC349C7EAD8F9A7D2BD19D1D93E.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-01.02.09:511][615]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-01.02.09:514][615]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-01.04.42:766][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset" SILENT=true
+[2017.04.26-01.04.42:791][631]LogSavePackage: Save=17.58ms
+[2017.04.26-01.04.42:791][631]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menuFDAE49B2437E332293F9ADA49A37C5F8.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset'
+[2017.04.26-01.04.42:792][631]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset
+[2017.04.26-01.04.47:576][ 72]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/button1_c.png]
+[2017.04.26-01.04.47:576][ 72]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button1_c.png)
+[2017.04.26-01.04.47:581][ 72]LogTexture:Display: Building textures: button1_c (BGRA8)
+[2017.04.26-01.04.47:588][ 72]LogEditorFactories: -- imported successfully
+[2017.04.26-01.04.50:404][275]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/button2_c.png]
+[2017.04.26-01.04.50:405][275]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button2_c.png)
+[2017.04.26-01.04.50:409][275]LogTexture:Display: Building textures: button2_c (BGRA8)
+[2017.04.26-01.04.50:415][275]LogEditorFactories: -- imported successfully
+[2017.04.26-01.04.52:369][420]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/button3_c.png]
+[2017.04.26-01.04.52:369][420]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/button3_c.png)
+[2017.04.26-01.04.52:374][420]LogTexture:Display: Building textures: button3_c (BGRA8)
+[2017.04.26-01.04.52:380][420]LogEditorFactories: -- imported successfully
+[2017.04.26-01.04.54:810][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Maps/Menu_Main" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-01.04.54:934][555]LogSavePackage: Save=84.99ms
+[2017.04.26-01.04.54:934][555]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Menu_Main337E3103490DFBF9B5D3FE8BB6C97C6A.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap'
+[2017.04.26-01.04.54:934][555]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap
+[2017.04.26-01.04.55:910][614]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-01.04.59:214][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button1_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset" SILENT=true
+[2017.04.26-01.04.59:233][614]LogSavePackage: Save=10.97ms
+[2017.04.26-01.04.59:233][614]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button1_cFA5E9D5D48C719E6ACF244B459545767.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset'
+[2017.04.26-01.04.59:234][614]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button1_c.uasset
+[2017.04.26-01.04.59:238][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button2_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset" SILENT=true
+[2017.04.26-01.04.59:256][614]LogSavePackage: Save=10.22ms
+[2017.04.26-01.04.59:256][614]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button2_c6D2E86F046EC31D3C3F032A794A48086.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset'
+[2017.04.26-01.04.59:257][614]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button2_c.uasset
+[2017.04.26-01.04.59:263][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/button3_c" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset" SILENT=true
+[2017.04.26-01.04.59:282][614]LogSavePackage: Save=11.16ms
+[2017.04.26-01.04.59:282][614]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/button3_c7D5097F147FB0ECA3044498AD4B7977B.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset'
+[2017.04.26-01.04.59:283][614]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/button3_c.uasset
+[2017.04.26-01.04.59:440][614]LogSavePackage: Save=87.64ms
+[2017.04.26-01.04.59:440][614]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainFB43BA564459FCBBF3705EBA98E429BA.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-01.04.59:441][614]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-01.04.59:445][614]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-01.17.46:486][608]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.033
+[2017.04.26-01.17.46:487][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-01.17.46:487][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-01.17.46:580][608]LogSavePackage: Save=84.81ms
+[2017.04.26-01.17.46:580][608]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto4DA6F63DC47A80B5CF8BDDA92C18DF121.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto4.uasset'
+[2017.04.26-01.17.46:641][608]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto4.uasset
+[2017.04.26-01.17.46:641][608]LogFileHelpers: Auto-saving content packages took 0.154
+[2017.04.26-01.26.42:765][906]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.26.51:092][825]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.27.46:585][361]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.033
+[2017.04.26-01.27.46:587][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-01.27.46:587][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-01.27.46:678][361]LogSavePackage: Save=84.01ms
+[2017.04.26-01.27.46:678][361]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto5C034944F47AF558581A59A807646BFAB.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto5.uasset'
+[2017.04.26-01.27.46:929][361]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto5.uasset
+[2017.04.26-01.27.46:929][361]LogFileHelpers: Auto-saving content packages took 0.344
+[2017.04.26-01.34.28:333][256]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.37.51:498][569]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.37.52:045][596]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.37.59:718][478]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.38.53:443][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.036
+[2017.04.26-01.38.53:444][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-01.38.53:444][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-01.38.53:541][703]LogSavePackage: Save=84.88ms
+[2017.04.26-01.38.53:541][703]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto6E5CF2F54410946338E30BABD9734C96B.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto6.uasset'
+[2017.04.26-01.38.53:777][703]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto6.uasset
+[2017.04.26-01.38.53:777][703]LogFileHelpers: Auto-saving content packages took 0.333
+[2017.04.26-01.40.22:070][769]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.42.44:752][ 44]LogEditorTransaction: Undo Nudge Widget
+[2017.04.26-01.42.45:042][ 66]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.42.45:503][ 93]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.45.22:569][ 80]LogEditorTransaction: Undo Resize Widget
+[2017.04.26-01.45.32:636][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-01.45.32:768][218]LogSavePackage: Save=115.49ms
+[2017.04.26-01.45.32:768][218]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI117758E84C6DD454249ACC9C2B7A7471.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-01.45.32:769][218]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-01.45.33:280][279]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-01.45.33:619][279]LogSavePackage: Save=106.29ms
+[2017.04.26-01.45.33:619][279]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainA9EDC8364D5B3653ED961B8F9EAA536A.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-01.45.33:620][279]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-01.45.33:622][279]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-01.47.46:608][482]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.47.50:545][853]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.47.58:065][562]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.48.01:502][863]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.48.07:444][410]LogEditorTransaction: Undo Move Widget
+[2017.04.26-01.50.51:133][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.056
+[2017.04.26-01.50.51:135][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-01.50.51:136][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-01.50.51:458][798]LogSavePackage: Save=96.99ms
+[2017.04.26-01.50.51:458][798]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto7C216C1024B06FC752EF87ABC9ECA7180.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto7.uasset'
+[2017.04.26-01.50.51:473][798]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto7.uasset
+[2017.04.26-01.50.51:473][798]LogFileHelpers: Auto-saving content packages took 0.339
+[2017.04.26-02.02.29:997][219]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.041
+[2017.04.26-02.02.29:999][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-02.02.29:999][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-02.02.30:154][219]LogSavePackage: Save=126.67ms
+[2017.04.26-02.02.30:154][219]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto8F1B21F76410DBE1BFC8DEDB8F7173D58.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto8.uasset'
+[2017.04.26-02.02.30:171][219]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto8.uasset
+[2017.04.26-02.02.30:171][219]LogFileHelpers: Auto-saving content packages took 0.173
+[2017.04.26-02.10.25:293][526]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/towermenu1.png)
+[2017.04.26-02.10.25:322][526]LogTexture:Display: Building textures: towermenu1 (BGRA8)
+[2017.04.26-02.11.53:323][466]LogEditorTransaction: Undo Edit Color and Opacity
+[2017.04.26-02.19.38:029][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.058
+[2017.04.26-02.19.38:031][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-02.19.38:031][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-02.19.38:154][629]LogSavePackage: Save=110.76ms
+[2017.04.26-02.19.38:154][629]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto93EC73FF446BD903039E365AEBA6A4E3B.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto9.uasset'
+[2017.04.26-02.19.38:154][629]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto9.uasset
+[2017.04.26-02.19.38:155][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Graphics/towermenu1] ([1] browsable assets)...
+[2017.04.26-02.19.38:159][629]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu_Graphics/towermenu1.towermenu1]
+[2017.04.26-02.19.38:159][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Graphics/towermenu1]
+[2017.04.26-02.19.38:159][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/towermenu1" FILE="../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/towermenu1_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2017.04.26-02.19.38:166][629]LogSavePackage: Save=5.70ms
+[2017.04.26-02.19.38:166][629]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/towermenu1_Auto91FD7FF804E17953D79A6C18EAA950AC1.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/towermenu1_Auto9.uasset'
+[2017.04.26-02.19.38:167][629]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/towermenu1_Auto9.uasset
+[2017.04.26-02.19.38:167][629]LogFileHelpers: Auto-saving content packages took 0.137
+[2017.04.26-02.20.36:851][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.20.36:945][457]LogSavePackage: Save=86.17ms
+[2017.04.26-02.20.36:946][457]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI7D03DE644ABC4777B2C4B7A793EC0CB3.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.20.36:948][457]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.20.42:051][948]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/towermenu1.png]
+[2017.04.26-02.20.42:052][948]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/towermenu1.png)
+[2017.04.26-02.20.42:072][948]LogTexture:Display: Building textures: towermenu1 (BGRA8)
+[2017.04.26-02.20.42:115][948]LogEditorFactories: -- imported successfully
+[2017.04.26-02.21.14:626][163]LogEditorFactories: Performing atomic reimport of [C:/Users/Jonathan/Desktop/towermenu1.png]
+[2017.04.26-02.21.14:627][163]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/towermenu1.png)
+[2017.04.26-02.21.14:647][163]LogTexture:Display: Building textures: towermenu1 (BGRA8)
+[2017.04.26-02.21.14:689][163]LogEditorFactories: -- imported successfully
+[2017.04.26-02.21.33:443][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.21.33:538][239]LogSavePackage: Save=88.77ms
+[2017.04.26-02.21.33:538][239]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI86BFD30D41D4C1EC282756A3E221272F.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.21.33:540][239]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.21.33:875][279]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-02.21.37:529][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/towermenu1" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/towermenu1.uasset" SILENT=true
+[2017.04.26-02.21.37:596][279]LogSavePackage: Save=66.39ms
+[2017.04.26-02.21.37:596][279]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/towermenu14B8042914ADF178E8A3C4E8EB3CA7CB5.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/towermenu1.uasset'
+[2017.04.26-02.21.37:607][279]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/towermenu1.uasset
+[2017.04.26-02.21.37:795][279]LogSavePackage: Save=97.78ms
+[2017.04.26-02.21.37:795][279]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainD5C2CD9D462353C3F625CF971B95E662.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-02.21.37:795][279]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-02.21.37:798][279]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-02.23.29:980][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.23.30:094][583]LogSavePackage: Save=95.89ms
+[2017.04.26-02.23.30:094][583]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI9E5A4C6C4C7662A1101564889983609C.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.23.30:096][583]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.23.31:137][707]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-02.23.31:424][707]LogSavePackage: Save=103.42ms
+[2017.04.26-02.23.31:424][707]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main789D3E5E48795E09423EE1A8F1405174.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-02.23.31:424][707]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-02.23.31:428][707]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-02.25.36:229][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.25.36:328][ 34]LogSavePackage: Save=90.82ms
+[2017.04.26-02.25.36:329][ 34]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UIDAE21D7B4F0916873EE22F9DF72BE77F.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.25.36:329][ 34]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset', retrying in .5s...
+[2017.04.26-02.25.36:829][ 34]LogFileManager:Error: Error deleting file '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'.
+[2017.04.26-02.25.36:829][ 34]LogSavePackage:Error: Error saving '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.25.36:830][ 34]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.25.43:698][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.25.43:796][ 34]LogSavePackage: Save=90.20ms
+[2017.04.26-02.25.43:796][ 34]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI480DD8E8494B7BAFA1FE52829DFF33F7.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.25.43:798][ 34]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.25.43:802][ 34]EditorErrors: New page: Save Output
+[2017.04.26-02.25.43:802][ 34]EditorErrors:Warning: Warning Error saving '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.25.47:513][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.25.47:608][458]LogSavePackage: Save=88.31ms
+[2017.04.26-02.25.47:608][458]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI2B8785004EC09AB189A9F49489DB969F.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.25.47:608][458]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.33.14:232][114]LogEditorTransaction: Undo Move Widget
+[2017.04.26-02.34.39:699][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.041
+[2017.04.26-02.34.39:701][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI] ([1] browsable assets)...
+[2017.04.26-02.34.39:701][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI]
+[2017.04.26-02.34.39:819][371]LogSavePackage: Save=109.33ms
+[2017.04.26-02.34.39:819][371]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UI_Auto006804EF04290106D46A6D98E46FE4E0D.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto0.uasset'
+[2017.04.26-02.34.39:820][371]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI_Auto0.uasset
+[2017.04.26-02.34.39:820][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit] ([1] browsable assets)...
+[2017.04.26-02.34.39:820][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit]
+[2017.04.26-02.34.39:834][371]LogSavePackage: Save=12.57ms
+[2017.04.26-02.34.39:834][371]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quit_Auto01420FB604E5EB6C3B13A2AA9F8F81EC4.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit_Auto0.uasset'
+[2017.04.26-02.34.39:834][371]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit_Auto0.uasset
+[2017.04.26-02.34.39:834][371]LogFileHelpers: Auto-saving content packages took 0.135
+[2017.04.26-02.38.03:261][559]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jonathan/Desktop/surebox.png)
+[2017.04.26-02.38.03:269][559]LogTexture:Display: Building textures: surebox (BGRA8)
+[2017.04.26-02.39.44:952][960]LogEditorTransaction: Undo Move Widget
+[2017.04.26-02.40.17:812][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset" SILENT=true
+[2017.04.26-02.40.17:834][564]LogSavePackage: Save=20.27ms
+[2017.04.26-02.40.17:834][564]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quitC3AABD9640481CCE5C0970822A4B91DA.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset'
+[2017.04.26-02.40.17:835][564]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset
+[2017.04.26-02.40.31:425][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset" SILENT=true
+[2017.04.26-02.40.31:478][297]LogSavePackage: Save=30.57ms
+[2017.04.26-02.40.31:478][297]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quit7F5110E5489A2E4E63D594A52B37DFED.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset'
+[2017.04.26-02.40.31:478][297]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset
+[2017.04.26-02.41.30:963][532]LogBlueprint:Warning: [Compiler ] Warning Leak Detected!  TextBlock_49 ( TextBlock ) still has living Slate widgets, it or the parent Button_135 ( Button ) is keeping them in memory.  Release all Slate resources in ReleaseSlateResources().
+[2017.04.26-02.41.39:184][140]LogBlueprint:Warning: [Compiler ] Warning Leak Detected!  Button_134 ( Button ) still has living Slate widgets, it or the parent HorizontalBox_0 ( HorizontalBox ) is keeping them in memory.  Release all Slate resources in ReleaseSlateResources().
+[2017.04.26-02.42.47:616][165]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.26-02.43.03:210][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset" SILENT=true
+[2017.04.26-02.43.03:252][889]LogSavePackage: Save=23.14ms
+[2017.04.26-02.43.03:252][889]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_menu527555D14847CAF31152EFBF534FD9F1.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset'
+[2017.04.26-02.43.03:253][889]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.uasset
+[2017.04.26-02.43.32:512][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset" SILENT=true
+[2017.04.26-02.43.32:542][ 12]LogSavePackage: Save=23.35ms
+[2017.04.26-02.43.32:542][ 12]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quit1AA6140F461AF67538109E9E92C50955.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset'
+[2017.04.26-02.43.32:544][ 12]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset
+[2017.04.26-02.44.29:675][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset" SILENT=true
+[2017.04.26-02.44.29:705][825]LogSavePackage: Save=23.58ms
+[2017.04.26-02.44.29:705][825]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quit5FD5FB424E3242C6405934BAEA3989DD.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset'
+[2017.04.26-02.44.29:706][825]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset
+[2017.04.26-02.44.55:135][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZTD_Blueprint/Maps/Menu_Main' took 0.048
+[2017.04.26-02.44.55:136][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Menu_Graphics/surebox] ([1] browsable assets)...
+[2017.04.26-02.44.55:145][  0]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Menu_Graphics/surebox.surebox]
+[2017.04.26-02.44.55:145][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_Graphics/surebox]
+[2017.04.26-02.44.55:145][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/surebox" FILE="../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/surebox_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.04.26-02.44.55:178][  0]LogSavePackage: Save=31.88ms
+[2017.04.26-02.44.55:178][  0]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/surebox_Auto1F6938C984DA787DDF0F60DA14AE4A57F.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/surebox_Auto1.uasset'
+[2017.04.26-02.44.55:178][  0]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/Menu_Graphics/surebox_Auto1.uasset
+[2017.04.26-02.44.55:178][  0]LogFileHelpers: Auto-saving content packages took 0.043
+[2017.04.26-02.45.11:299][273]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-02.45.14:877][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_Graphics/surebox" FILE="../../../../../Zombie_TowerDefense/Content/Menu_Graphics/surebox.uasset" SILENT=true
+[2017.04.26-02.45.14:895][273]LogSavePackage: Save=16.04ms
+[2017.04.26-02.45.14:895][273]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/sureboxDB582E0E4F8CAA73286AA2A48197744F.tmp' to '../../../../../Zombie_TowerDefense/Content/Menu_Graphics/surebox.uasset'
+[2017.04.26-02.45.14:896][273]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/Menu_Graphics/surebox.uasset
+[2017.04.26-02.45.14:899][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset" SILENT=true
+[2017.04.26-02.45.15:016][273]LogSavePackage: Save=109.91ms
+[2017.04.26-02.45.15:016][273]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Ingame_UIFF6B3A3641C0131F2043F4BEEFB9C425.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset'
+[2017.04.26-02.45.15:018][273]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.uasset
+[2017.04.26-02.45.15:190][273]LogSavePackage: Save=103.61ms
+[2017.04.26-02.45.15:190][273]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_MainD0C0C19F40FAD0797B0DD3B4DE66BABF.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-02.45.15:191][273]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-02.45.15:195][273]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_20.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or ObjectProperty /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.SKEL_Ingame_UI_C:CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or ObjectProperty /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI_C:CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_21.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_7.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_19.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_20.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_18.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_19.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_17.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_2.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:358][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_18.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_8.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_17.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_13.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_11.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_48.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_12.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_3.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_10.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_9.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_15.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_4.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_16.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_8.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_6.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_5.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_4.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_3.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_62.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_30.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_57.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_61.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_46.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_28.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_37.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_5.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_46.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_13.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_14.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_11.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_15.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_59.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_36.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_55.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_35.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_60.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_34.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_58.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_14:Pause_menu_C_54.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_24.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_25.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_16:Ingame_UI_C_53.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_26.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_27.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_28.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_36.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_37.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_38.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_39.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_40.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_41.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:Pause_quit_C_42.WidgetTree.CanvasPanel_0
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_16:Ingame_UI_C_2.WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_14:Pause_menu_C_54.WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2017.04.26-02.46.19:359][690]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (Image /Engine/UMG/Editor/Transient.Image_0).  Import failed...
+[2017.04.26-02.46.19:359][690]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_3''
+[2017.04.26-02.46.25:737][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset" SILENT=true
+[2017.04.26-02.46.25:773][ 26]LogSavePackage: Save=20.14ms
+[2017.04.26-02.46.25:773][ 26]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Pause_quit71B445804EA2CE7603C9C7B9986F3D60.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset'
+[2017.04.26-02.46.25:774][ 26]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.uasset
+[2017.04.26-02.46.34:181][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Maps/Menu_Main" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-02.46.34:323][518]LogSavePackage: Save=98.56ms
+[2017.04.26-02.46.34:323][518]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Menu_Main65B924A84C38ABAA6BACEFB03235F981.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap'
+[2017.04.26-02.46.34:324][518]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap
+[2017.04.26-02.46.35:030][567]LogTemp: Repeting last play command: Standalone Game
+[2017.04.26-02.46.35:324][567]LogSavePackage: Save=105.03ms
+[2017.04.26-02.46.35:324][567]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/UEDPCMenu_Main154FDB0C49F2ACE0464C1FA2480B2FE7.tmp' to '../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap'
+[2017.04.26-02.46.35:325][567]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Saved/Autosaves/Game/ZTD_Blueprint/Maps/UEDPCMenu_Main.umap
+[2017.04.26-02.46.35:327][567]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or ObjectProperty /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.SKEL_Ingame_UI_C:CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or ObjectProperty /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI_C:CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MapSelect.MapSelect_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_menu.Pause_menu_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:878][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Menu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_20:Pause_quit_C_49.WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_20:Pause_quit_C_50.WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/ZTD_Blueprint/Blueprints/HUD/Reticle.Reticle:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8 or CanvasPanelSlot /Engine/Transient.World_20:Pause_quit_C_49.WidgetTree.CanvasPanel_0.CanvasPanelSlot_8
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8 or CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/HUD/Ingame_UI.Ingame_UI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8
+[2017.04.26-02.47.16:879][342]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8 or CanvasPanelSlot /Engine/Transient.World_20:Pause_quit_C_50.WidgetTree.CanvasPanel_0.CanvasPanelSlot_8
+[2017.04.26-02.47.16:879][342]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ZTD_Blueprint/Blueprints/Game_UI/Pause_quit.Pause_quit:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8) from referencer (Image /Engine/UMG/Editor/Transient.Image_0).  Import failed...
+[2017.04.26-02.47.16:879][342]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_8''
+[2017.04.26-02.47.17:732][387]LogEditorTransaction: Undo Paste clipboard contents
+[2017.04.26-02.47.24:321][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Blueprints/Menu/OptionsMenu" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset" SILENT=true
+[2017.04.26-02.47.24:407][729]LogSavePackage: Save=51.58ms
+[2017.04.26-02.47.24:407][729]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/OptionsMenuB7B1E6E24EF5A80E8E748891FAF6581D.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset'
+[2017.04.26-02.47.24:408][729]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Blueprints/Menu/OptionsMenu.uasset
+[2017.04.26-02.47.34:841][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZTD_Blueprint/Maps/Menu_Main" FILE="../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.26-02.47.34:969][980]LogSavePackage: Save=85.44ms
+[2017.04.26-02.47.34:969][980]LogSavePackage: Moving '../../../../../Zombie_TowerDefense/Saved/Menu_Main2FC9B31A4FD8E69373B5DC9B8AC7E63F.tmp' to '../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap'
+[2017.04.26-02.47.34:969][980]LogSavePackage:Display: Finished SavePackage ../../../../../Zombie_TowerDefense/Content/ZTD_Blueprint/Maps/Menu_Main.umap
+[2017.04.26-02.47.36:488][ 57]Cmd: QUIT_EDITOR
+[2017.04.26-02.47.36:703][ 57]LogExit: Preparing to exit.
+[2017.04.26-02.47.37:418][ 57]LogDirectoryWatcher: A directory notification for 'E:/Zombie_TowerDefense/Content/' was aborted.
+[2017.04.26-02.47.37:482][ 57]LogExit: Editor shut down
+[2017.04.26-02.47.37:484][ 57]LogExit: Transaction tracking system shut down
+[2017.04.26-02.47.37:887][ 57]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.26-02.47.37:888][ 57]LogExit: Object subsystem successfully closed.
+[2017.04.26-02.47.37:903][ 57]LogD3D11RHI: Shutdown
+[2017.04.26-02.47.37:903][ 57]LogD3D11RHI: CleanupD3DDevice
+[2017.04.26-02.47.37:928][ 57]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.26-02.47.38:240][ 57]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.26-02.47.38:240][ 57]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE2DB4E22-42BC-169E-99AC-718C438CA864%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=d5a7d17d42a41035e57991a95cb56cad%7Cbe90d66b521d41b98428b07346902ea7%7Cf5012979-27e0-4a3e-92b2-209ac13ca202&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.26-02.47.38:257][ 57]LogModuleManager: Shutting down and abandoning module TextureEditor (244)
+[2017.04.26-02.47.38:263][ 57]LogModuleManager: Shutting down and abandoning module SequencerWidgets (243)
+[2017.04.26-02.47.38:263][ 57]LogModuleManager: Shutting down and abandoning module BlueprintGraph (242)
+[2017.04.26-02.47.38:263][ 57]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (241)
+[2017.04.26-02.47.38:280][ 57]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (240)
+[2017.04.26-02.47.38:283][ 57]LogModuleManager: Shutting down and abandoning module CrashTracker (239)
+[2017.04.26-02.47.38:283][ 57]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.26-02.47.38:283][ 57]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.26-02.47.38:288][ 57]LogDirectoryWatcher: A directory notification for 'E:/2016 Install/UE_4.14/FeaturePacks/' was aborted.
+[2017.04.26-02.47.38:294][ 57]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.26-02.47.38:294][ 57]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.26-02.47.38:295][ 57]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.26-02.47.38:301][ 57]LogDirectoryWatcher: A directory notification for 'E:/Zombie_TowerDefense/Content/Collections/' was aborted.
+[2017.04.26-02.47.38:301][ 57]LogDirectoryWatcher: A directory notification for 'E:/Zombie_TowerDefense/Content/Developers/Jonathan/Collections/' was aborted.
+[2017.04.26-02.47.38:301][ 57]LogDirectoryWatcher: A directory notification for 'E:/Zombie_TowerDefense/Saved/Collections/' was aborted.
+[2017.04.26-02.47.38:301][ 57]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.26-02.47.38:308][ 57]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.26-02.47.38:317][ 57]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.26-02.47.38:323][ 57]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.26-02.47.38:323][ 57]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.26-02.47.38:323][ 57]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.26-02.47.38:323][ 57]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.26-02.47.38:323][ 57]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.26-02.47.38:330][ 57]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.26-02.47.38:330][ 57]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.26-02.47.38:330][ 57]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.26-02.47.38:330][ 57]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.26-02.47.38:334][ 57]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.26-02.47.38:346][ 57]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.26-02.47.38:366][ 57]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.26-02.47.38:387][ 57]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.26-02.47.38:394][ 57]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.26-02.47.38:414][ 57]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.26-02.47.38:430][ 57]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.26-02.47.38:430][ 57]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.26-02.47.38:437][ 57]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.26-02.47.38:437][ 57]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.26-02.47.38:869][ 57]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.26-02.47.38:873][ 57]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.26-02.47.38:873][ 57]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.26-02.47.38:873][ 57]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.26-02.47.38:878][ 57]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.26-02.47.38:895][ 57]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.26-02.47.38:905][ 57]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.26-02.47.38:907][ 57]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.26-02.47.38:913][ 57]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.26-02.47.38:913][ 57]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.26-02.47.38:920][ 57]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.26-02.47.38:929][ 57]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.26-02.47.38:938][ 57]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.26-02.47.38:946][ 57]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.26-02.47.38:955][ 57]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.26-02.47.38:955][ 57]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.26-02.47.38:955][ 57]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.26-02.47.38:958][ 57]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.26-02.47.38:958][ 57]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.26-02.47.38:958][ 57]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.26-02.47.38:958][ 57]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.26-02.47.38:970][ 57]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.26-02.47.38:985][ 57]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.26-02.47.38:997][ 57]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.26-02.47.39:005][ 57]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.26-02.47.39:005][ 57]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.26-02.47.39:063][ 57]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.26-02.47.39:063][ 57]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.26-02.47.39:074][ 57]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.26-02.47.39:085][ 57]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.26-02.47.39:086][ 57]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.26-02.47.39:097][ 57]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.26-02.47.39:098][ 57]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.26-02.47.39:098][ 57]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.26-02.47.39:113][ 57]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.26-02.47.39:146][ 57]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.26-02.47.39:147][ 57]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.26-02.47.39:150][ 57]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.26-02.47.39:150][ 57]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.26-02.47.39:156][ 57]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.26-02.47.39:171][ 57]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.26-02.47.39:187][ 57]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.26-02.47.39:193][ 57]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.26-02.47.39:321][ 57]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.26-02.47.39:346][ 57]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.26-02.47.39:346][ 57]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.26-02.47.39:346][ 57]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.26-02.47.39:346][ 57]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.26-02.47.39:349][ 57]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.26-02.47.39:360][ 57]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.26-02.47.39:360][ 57]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.26-02.47.39:360][ 57]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.26-02.47.39:360][ 57]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.26-02.47.39:376][ 57]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.26-02.47.39:385][ 57]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.26-02.47.39:394][ 57]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.26-02.47.39:395][ 57]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.26-02.47.39:401][ 57]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.26-02.47.39:401][ 57]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.26-02.47.39:401][ 57]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.26-02.47.39:401][ 57]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.26-02.47.39:401][ 57]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.26-02.47.39:404][ 57]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.26-02.47.39:405][ 57]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.26-02.47.39:405][ 57]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.26-02.47.39:416][ 57]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.26-02.47.39:418][ 57]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.26-02.47.39:430][ 57]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.26-02.47.39:531][ 57]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.26-02.47.39:631][ 57]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.26-02.47.39:631][ 57]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.26-02.47.39:631][ 57]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.26-02.47.39:631][ 57]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.26-02.47.39:632][ 57]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.26-02.47.39:632][ 57]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.26-02.47.39:633][ 57]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.26-02.47.39:641][ 57]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.26-02.47.39:641][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.26-02.47.39:641][ 57]LogDirectoryWatcher: A directory notification for '../../../../../Zombie_TowerDefense/Content/' was aborted.
+[2017.04.26-02.47.39:641][ 57]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.26-02.47.39:642][ 57]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.26-02.47.39:915][ 57]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.26-02.47.39:921][ 57]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.26-02.47.39:921][ 57]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.26-02.47.39:983][ 57]LogDerivedDataCache: Shutdown
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.26-02.47.39:983][ 57]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.26-02.47.39:984][ 57]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.26-02.47.39:984][ 57]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.26-02.47.39:985][ 57]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.26-02.47.39:990][ 57]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.26-02.47.39:992][ 57]LogExit: Exiting.
+[2017.04.26-02.47.40:006][ 57]Log file closed, 04/25/17 21:47:40
+=======
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
@@ -8507,3 +9585,4 @@ LogInit: Object subsystem initialized
 [2017.04.26-02.47.10:707][ 13]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
 [2017.04.26-02.47.11:706][ 75]LogBlueprintUserMessages: [ZTD_GameMode_C_0] SpawningZombie
 [2017.04.26-02.47.12:224][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZTD_Blueprint/Maps/Menu_Main.Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/ZTD_Blueprint/Maps/Menu_Main.Menu_Main:PersistentLevel.Menu_Main' with GeneratedClass '/Game/ZTD_Blueprint/Maps/Menu_Main.Menu_Main_C' with ClassGeneratedBy '/Game/ZTD_Blueprint/Maps/Menu_Main.Menu_Main:PersistentLevel.Menu_Main'
+>>>>>>> master
